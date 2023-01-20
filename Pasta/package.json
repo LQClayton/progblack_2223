@@ -5,7 +5,7 @@
   "main": "funk.js",
   "scripts": {
     "pretest": "eslint server.js",
-    "start": "nodemon server.js",
+    "start": "nodemon Pasta/server.js",
     "test": "jest"
   },
   "author": "",
